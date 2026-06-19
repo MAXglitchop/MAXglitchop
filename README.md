@@ -1,75 +1,74 @@
-<!-- Header Section -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20There!%20👋&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=51&descAlign=62" />
-  
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" /></a>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sameerasw/sameerasw/main/assets/apple.svg" width="50" alt="Apple" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/sameerasw/sameerasw/main/assets/phone.svg" width="30" alt="Phone" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/sameerasw/sameerasw/main/assets/keyboard.svg" width="120" alt="Keyboard" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/sameerasw/sameerasw/main/assets/mouse.svg" width="40" alt="Mouse" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/sameerasw/sameerasw/main/assets/headphones.svg" width="50" alt="Headphones" />
+</p>
 
----
+<h1 align="center" style="border: none; font-size: 2.5rem; margin-bottom: 0;">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />, I'm Sayak Banerjee
+</h1>
 
-<!-- About Me Section -->
-## 💫 About Me
-- 🔭 I’m currently working on **Awesome Projects**
-- 🌱 I’m currently learning **Advanced System Design and Cloud Architectures**
-- 👯 I’m looking to collaborate on **Open Source Software**
-- 💬 Ask me about **React, Node.js, Python, and UI/UX**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **I turn coffee into code!**
+<p align="center" style="border: none; font-weight: normal; font-size: 1.5rem;">
+  👨🏻‍💻 Currently accepting bug reports and compliments — I design, code, over-engineer, panic-debug, and celebrate small wins 🎉😎
+</p>
 
----
+<h2 align="center" style="border: none; font-size: 1.5rem; margin-bottom: 0;">
+  My Apps and Projects
+</h2>
 
-<!-- Skills Section -->
-## 🛠️ Tech Stack & Tools
+<p align="center">
+  <a href="https://github.com/MAXglitchop/MangaWin"><img width="32%" alt="AirSync" src="https://github.com/user-attachments/assets/3844e1de-821a-40bf-a648-16c6ea0fe0c8" /></a>
+  <a href="https://github.com/MAXglitchop/MangaWin"><img width="32%" alt="Essentials" src="https://github.com/user-attachments/assets/ecf55a34-f5b0-40ea-92e7-f14b5c6b9f92" /></a>
+  <a href="https://github.com/MAXglitchop/MangaWin"><img width="32%" alt="ZenZero" src="https://github.com/user-attachments/assets/fce33b2e-7a76-486f-b372-15d40b3d66c2" /></a>
+  <a href="https://github.com/MAXglitchop/MangaWin"><img width="32%" alt="Canvas" src="https://github.com/user-attachments/assets/a997d648-a0ed-44f9-8e1c-11ff9796f266" /></a>
+  <a href="https://github.com/MAXglitchop/MangaWin"><img width="32%" alt="Tasks" src="https://github.com/user-attachments/assets/e94e7dbc-9c59-44a2-888c-7be54b4e7081" /></a>
+  <a href="https://github.com/MAXglitchop/MangaWin"><img width="32%" alt="Workspacer" src="https://github.com/user-attachments/assets/0593b4f6-068d-4e9b-b0b2-4d1a0e8d0de5" /></a>
+  <a href="https://github.com/MAXglitchop/MangaWin"><img width="32%" alt="Zero" src="https://github.com/user-attachments/assets/33c94514-6b99-4d69-be57-f67e5ed7a514" /></a>
+  <a href="https://github.com/MAXglitchop/MangaWin"><img width="32%" alt="Ambience" src="https://github.com/user-attachments/assets/066d4827-04d2-43bb-a534-7db3df2f2d9c" /></a>
+  <a href="https://github.com/MAXglitchop/MangaWin"><img width="32%" alt="Folder Icons" src="https://github.com/user-attachments/assets/4098be90-a75d-407b-8395-e2dbfcf3a1e9" /></a>
+  <a href="https://github.com/MAXglitchop/MangaWin"><img width="32%" alt="Macros" src="https://github.com/user-attachments/assets/65b6eb4e-41a4-4f9e-8c3d-6b5e8bb701ab" /></a>
+  <a href="https://github.com/MAXglitchop/MangaWin"><img width="32%" alt="Hackintosh" src="https://github.com/user-attachments/assets/817290bc-4322-48cd-b1af-777e4cb8e5c1" /></a>
+  <a href="https://github.com/MAXglitchop/MangaWin"><img width="32%" alt="Gumroad Apps" src="https://github.com/user-attachments/assets/1569a7c3-3759-444d-b009-dd27e368cd96" /></a>
+</p>
 
-<div align="center">
-  
-  ### Frontend
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=swift,html,css,js,ts,react,node,github,figma,apple" />
+  </a>
+</p>
 
-  ### Backend
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MAXglitchop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAXglitchop&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</p>
 
-  ### Tools & Environment
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<h2 align="center" style="border: none; font-size: 1.5rem; margin-bottom: 0;">
+  My desktop setup
+</h2>
 
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d98be2a3-f116-4148-be22-b0629b35b6b3" alt="Desktop Setup" width="100%" style="border-radius: 15px;" />
+</p>
 
----
+<h2 align="center" style="border: none; font-size: 1.5rem; margin-bottom: 0;">
+  Join My Community
+</h2>
 
-<!-- GitHub Stats Section -->
-## 📈 GitHub Analytics
+<p align="center">
+  <a href="#"><img src="https://github.com/user-attachments/assets/74ffc375-7b19-48be-a690-362095f36e4f" alt="Reddit Community" width="60%" /></a><br/>
+  <a href="#"><img src="https://github.com/user-attachments/assets/e09e3eec-82d2-430c-ab22-fb4bb38b0051" alt="Telegram Channel" width="60%" /></a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
+<h2 align="center" style="border: none; font-size: 1.5rem; margin-bottom: 0;">
+  Connect with Me
+</h2>
 
----
-
-<!-- Social Links Section -->
-## 🤝 Connect with me
-
-<div align="center">
-  <a href="https://discord.com/users/YOUR_DISCORD"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
-</div>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=twitter,linkedin,facebook,instagram,youtube" /></a>
+</p>
