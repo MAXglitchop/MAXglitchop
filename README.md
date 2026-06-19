@@ -1,51 +1,73 @@
-<h1 align="center" style="border: none; font-size: 2.5rem; margin-bottom: 0; margin-top: 2rem;">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />, I'm Sayak Banerjee
-</h1>
-
-<p align="center" style="border: none; font-weight: normal; font-size: 1.5rem;">
-  👨🏻‍💻 Currently accepting bug reports and compliments — I design, code, over-engineer, panic-debug, and celebrate small wins 🎉😎
+<!-- Header Section -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sayak%20Banerjee&fontSize=80&animation=twinkling&fontAlignY=38&desc=Building%20MangaWin%20%7C%20Creator%20%7C%20Developer&descAlignY=55&descAlign=50" alt="Header Banner" />
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <!-- Replace these with your actual skills -->
-    <img src="https://skillicons.dev/icons?i=js,ts,react,node,python,html,css,github,vscode,figma" />
-  </a>
+  <a href="https://mangawin.pages.dev/"><img src="https://img.shields.io/badge/Website-mangawin.pages.dev-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
+  <a href="https://github.com/MAXglitchop"><img src="https://img.shields.io/badge/GitHub-MAXglitchop-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<br/>
+---
 
-<h2 align="center" style="border: none; font-size: 1.5rem; margin-bottom: 0;">
-  My Projects
-</h2>
+## 🚀 About Me
+
+Hi there! I'm **Sayak Banerjee** (<a href="https://github.com/MAXglitchop">@MAXglitchop</a>), a passionate developer exploring cool technologies and building projects that users love. 
+
+- 🌟 Main Project: [**MangaWin**](https://github.com/MAXglitchop/MangaWin) - A fantastic project I'm currently working on!
+- 🌐 Visit my website: [**MangaWin Web**](https://mangawin.pages.dev/)
+- 💡 I love exploring new frameworks and optimizing user experiences.
+- 📫 How to reach me: _Feel free to drop a message or open an issue on my repos!_
+
+---
+
+## 🏆 Featured Project: MangaWin
+
+<div align="center">
+  <a href="https://mangawin.pages.dev/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MAXglitchop&repo=MangaWin&theme=radical&show_icons=true" alt="MangaWin Repo Card" />
+  </a>
+</div>
 
 <p align="center">
-  <!-- Replace the src links with links to your own designed thumbnails! -->
-  <a href="https://github.com/MAXglitchop/MangaWin">
-    <img width="32%" alt="MangaWin" src="https://via.placeholder.com/400x150/111827/58A6FF?text=MangaWin+Project" style="border-radius: 10px;" />
-  </a>
-  <a href="#">
-    <img width="32%" alt="Project 2" src="https://via.placeholder.com/400x150/111827/58A6FF?text=Project+2" style="border-radius: 10px;" />
-  </a>
-  <a href="#">
-    <img width="32%" alt="Project 3" src="https://via.placeholder.com/400x150/111827/58A6FF?text=Project+3" style="border-radius: 10px;" />
-  </a>
+  Check out the source code: <a href="https://github.com/MAXglitchop/MangaWin">GitHub Repository</a> | 
+  Visit the live site: <a href="https://mangawin.pages.dev/">MangaWin Official</a>
 </p>
 
-<br/>
+---
+
+## 💻 Tech Stack & Arsenal
+
+<div align="center">
+
+| Frontend | Backend & DB | Tools & Others |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres" alt="Backend" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,vercel" alt="Tools" /> |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MAXglitchop&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7" alt="Sayak's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAXglitchop&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7" alt="Top Languages" width="48%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAXglitchop&theme=radical&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakNum=00C7B7" alt="GitHub Streak" />
+</div>
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MAXglitchop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAXglitchop&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <i>"Code is like humor. When you have to explain it, it’s bad." — Cory House</i>
 </p>
 
-<br/>
-
-<h2 align="center" style="border: none; font-size: 1.5rem; margin-bottom: 0;">
-  Connect with Me
-</h2>
-
+<!-- Footer -->
 <p align="center">
-  <!-- Replace the `#` with your actual profile links -->
-  <a href="#"><img src="https://skillicons.dev/icons?i=twitter,linkedin,discord,instagram" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Banner" />
 </p>
