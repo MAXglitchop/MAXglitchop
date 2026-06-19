@@ -1,73 +1,86 @@
-<!-- Header Section -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sayak%20Banerjee&fontSize=80&animation=twinkling&fontAlignY=38&desc=Building%20MangaWin%20%7C%20Creator%20%7C%20Developer&descAlignY=55&descAlign=50" alt="Header Banner" />
-</p>
-
-<p align="center">
-  <a href="https://mangawin.pages.dev/"><img src="https://img.shields.io/badge/Website-mangawin.pages.dev-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
-  <a href="https://github.com/MAXglitchop"><img src="https://img.shields.io/badge/GitHub-MAXglitchop-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
----
-
-## 🚀 About Me
-
-Hi there! I'm **Sayak Banerjee** (<a href="https://github.com/MAXglitchop">@MAXglitchop</a>), a passionate developer exploring cool technologies and building projects that users love. 
-
-- 🌟 Main Project: [**MangaWin**](https://github.com/MAXglitchop/MangaWin) - A fantastic project I'm currently working on!
-- 🌐 Visit my website: [**MangaWin Web**](https://mangawin.pages.dev/)
-- 💡 I love exploring new frameworks and optimizing user experiences.
-- 📫 How to reach me: _Feel free to drop a message or open an issue on my repos!_
-
----
-
-## 🏆 Featured Project: MangaWin
-
 <div align="center">
-  <a href="https://mangawin.pages.dev/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MAXglitchop&repo=MangaWin&theme=radical&show_icons=true" alt="MangaWin Repo Card" />
+
+<!-- Futuristic Header GIF -->
+<img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/header.gif" width="100%" alt="Premium Header" />
+
+<!-- Dynamic Animated Name -->
+<br/>
+<a href="https://mangawin.pages.dev/">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=45&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&width=800&height=80&lines=Sayak+Banerjee;Creator+of+MangaWin;Full+Stack+Engineer" alt="Sayak Banerjee Typing SVG" />
+</a>
+<br/>
+
+<!-- Sleek Custom Badges -->
+<a href="https://mangawin.pages.dev/"><img src="https://img.shields.io/badge/MangaWin_Web-0D1117?style=for-the-badge&logo=vercel&logoColor=00C7B7&borderColor=00C7B7" alt="Website" /></a>
+<a href="https://github.com/MAXglitchop"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00C7B7&borderColor=00C7B7" alt="GitHub" /></a>
+
+<br/>
+<br/>
+
+<img src="https://raw.githubusercontent.com/trinhngocminh/trinhngocminh/main/assets/line.gif" width="100%" />
+
+### ✦ ━━━━━━━━━ ✦ About Me ✦ ━━━━━━━━━ ✦
+
+I craft high-performance, aesthetically pleasing web applications and systems. I believe in writing code that is not just functional, but an absolute joy to read and scale.
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star" width="25" /> **Currently Building:** [MangaWin](https://mangawin.pages.dev/) - A seamless and immersive manga reading experience.  
+<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" /> **Tech Arsenal:** Next.js, React, Node.js, Python, and scalable architectures.  
+<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/High%20Voltage.png" alt="High Voltage" width="25" /> **Mission:** To engineer products that blend cutting-edge tech with premium design.
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/trinhngocminh/trinhngocminh/main/assets/line.gif" width="100%" />
+
+### ✦ ━━━━━━━━━ ✦ Featured Work ✦ ━━━━━━━━━ ✦
+
+<a href="https://mangawin.pages.dev/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MAXglitchop&repo=MangaWin&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117" alt="MangaWin Project" />
+</a>
+
+<br/>
+<br/>
+
+<img src="https://raw.githubusercontent.com/trinhngocminh/trinhngocminh/main/assets/line.gif" width="100%" />
+
+### ✦ ━━━━━━━━━ ✦ The Arsenal ✦ ━━━━━━━━━ ✦
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,mongodb,postgres,docker,aws,linux,git,github,vscode,figma&perline=8" alt="Tech Stack" />
+</p>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/trinhngocminh/trinhngocminh/main/assets/line.gif" width="100%" />
+
+### ✦ ━━━━━━━━━ ✦ Analytics & Trophies ✦ ━━━━━━━━━ ✦
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=MAXglitchop&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=6" alt="Trophies" />
   </a>
-</div>
-
-<p align="center">
-  Check out the source code: <a href="https://github.com/MAXglitchop/MangaWin">GitHub Repository</a> | 
-  Visit the live site: <a href="https://mangawin.pages.dev/">MangaWin Official</a>
 </p>
 
----
-
-## 💻 Tech Stack & Arsenal
-
-<div align="center">
-
-| Frontend | Backend & DB | Tools & Others |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres" alt="Backend" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,vercel" alt="Tools" /> |
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MAXglitchop&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7" alt="Sayak's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAXglitchop&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7" alt="Top Languages" width="48%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAXglitchop&theme=radical&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakNum=00C7B7" alt="GitHub Streak" />
-</div>
-
----
-
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." — Cory House</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=MAXglitchop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAXglitchop&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" width="48%" />
 </p>
 
-<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Banner" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MAXglitchop&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
 </p>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/trinhngocminh/trinhngocminh/main/assets/line.gif" width="100%" />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="35" />
+  <br/>
+  <i>"Architecture is the art of how to waste space."</i>
+</p>
+
+</div>
