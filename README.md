@@ -5,7 +5,7 @@
 
 <!-- Dynamic Animated Name -->
 <br/>
-<a href="https://mangawin.pages.dev/">
+<a href="https://github.com/MAXglitchop/MangaWin">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=45&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&width=800&height=80&lines=Sayak+Banerjee;Creator+of+MangaWin;Full+Stack+Engineer" alt="Sayak Banerjee Typing SVG" />
 </a>
 <br/>
@@ -25,7 +25,7 @@ I craft high-performance, aesthetically pleasing web applications and systems. I
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star" width="25" /> **Currently Building:** [MangaWin](https://mangawin.pages.dev/) - A seamless and immersive manga reading experience.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star" width="25" /> **Currently Building:** [MangaWin](https://github.com/MAXglitchop/MangaWin) - A seamless and immersive manga reading experience.  
 <br/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" /> **Tech Arsenal:** Next.js, React, Node.js, Python, and scalable architectures.  
 <br/>
@@ -37,7 +37,7 @@ I craft high-performance, aesthetically pleasing web applications and systems. I
 
 ### ✦ ━━━━━━━━━ ✦ Featured Work ✦ ━━━━━━━━━ ✦
 
-<a href="https://mangawin.pages.dev/">
+<a href="https://github.com/MAXglitchop/MangaWin">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MAXglitchop&repo=MangaWin&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117" alt="MangaWin Project" />
 </a>
 
